@@ -26,6 +26,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Signal Generation.vi" Type="VI" URL="../Signal Generation.vi"/>
 		<Item Name="Signal Playback.vi" Type="VI" URL="../Signal Playback.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
