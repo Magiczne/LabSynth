@@ -13,6 +13,9 @@
 		<Item Name="Controls" Type="Folder" URL="../Controls">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Graphics" Type="Folder" URL="../Graphics">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Libraries" Type="Folder" URL="../Libraries">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
