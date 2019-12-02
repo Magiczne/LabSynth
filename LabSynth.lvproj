@@ -25,6 +25,10 @@
 		<Item Name="Utilities" Type="Folder" URL="../Utilities">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Control 5.ctl" Type="VI" URL="../Controls/Control 5.ctl"/>
+		<Item Name="Control 16.ctl" Type="VI" URL="../Controls/Control 16.ctl"/>
+		<Item Name="Control 17.ctl" Type="VI" URL="../Controls/Control 17.ctl"/>
+		<Item Name="Control 18.ctl" Type="VI" URL="../Controls/Control 18.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Signal Generation.vi" Type="VI" URL="../Signal Generation.vi"/>
 		<Item Name="Signal Playback.vi" Type="VI" URL="../Signal Playback.vi"/>
