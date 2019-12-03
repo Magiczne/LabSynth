@@ -146,7 +146,6 @@
 				<Property Name="App_INI_aliasGUID" Type="Str">{96235EA3-A6BE-4B78-A65C-681A6384E956}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{AC4CA9F9-ED7F-45FB-B2ED-72688E85E162}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
-				<Property Name="App_winsec.description" Type="Str">http://www.AGH.com</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{A64A2208-C376-4FE2-8DB7-9F801831EEC6}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">LabSynth</Property>
@@ -166,7 +165,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/LabSynth/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{BB05A51A-35C1-4136-9A63-B6C682F4718D}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{8DFF3ABC-DFF6-4D6E-A10E-A98029A3B2F9}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main.vi</Property>
