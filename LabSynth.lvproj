@@ -165,7 +165,8 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/LabSynth/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{8DFF3ABC-DFF6-4D6E-A10E-A98029A3B2F9}</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Graphics/hnet.com-image.ico</Property>
+				<Property Name="Source[0].itemID" Type="Str">{0C56D8AD-1E3E-41B9-A5B9-0E046FF13452}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main.vi</Property>
